@@ -1,3 +1,3 @@
-class NewClass {
-    let num1 = 10
+struct NewClass {
+    let newNum = 20
 }
